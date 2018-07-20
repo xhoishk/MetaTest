@@ -4,6 +4,22 @@ You can use the [editor on GitHub](https://github.com/xhoishk/MetaTest/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<meta property="og:title" content="LloydsPharmacy Online Doctor">
+<meta property="og:site_name" content="LloydsPharmacy Online Doctor UK">
+<meta property="og:url" content="https://onlinedoctor.lloydspharmacy.com">
+<meta property="og:description" content="Our NHS experienced clinicians have helped treat over 1,000,000 patients in the UK. Our online service is safe, discreet empowers you to get the treatments you need">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://onlinedoctor.lloydspharmacy.com/blob/17278/132adae55bec7c5ac837df341f0bbd7d/lloydspharmacy-logo---correct-light-green-data.png">
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@jimmychoo">
+<meta name="twitter:creator" content="@jimmychoo">
+<meta name="twitter:title" content="LloydsPharmacy Online Doctor">
+<meta name="twitter:description" content="Our NHS experienced clinicians have helped treat over 1,000,000 patients in the UK. Our online service is safe, discreet empowers you to get the treatments you need.">
+<meta name="twitter:image" content="https://onlinedoctor.lloydspharmacy.com/blob/17278/132adae55bec7c5ac837df341f0bbd7d/lloydspharmacy-logo---correct-light-green-data.png">
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
